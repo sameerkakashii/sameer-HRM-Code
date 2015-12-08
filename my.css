@@ -1,0 +1,49 @@
+body{background-color:#dddddd;}
+.jumbohead{width:100%; height:20%; padding:4%; background-color:#eee;}
+.userrolebody{background-color:#CCFF66;width:100%; }
+.userheader{background-color:#333333;padding:1%; color:#FFFFFF; text-align:; border-bottom:inset;}
+
+.tab1{background-color:#6fa42a; height:170px;padding:2%; padding-bottom:5%; color:#FFFFFF;}
+.tab2{background-color:#6fa42a;height:170px;padding:3%; padding-bottom:5%; }
+.tab2 img{margin-top:-2%;}
+
+.tab2 a{color:#CCCCCC;}
+.usersearchbtn{
+}
+.usersearchbtn img{ margin-top:0.5%; margin-right:10%;}
+.usersearchbtn img:hover{background-color:#0099CC;}
+.table-responsive{float:right; width:100%;}
+.userroletable table thead tr th{background-color:#666633; color:#FFFFFF;}
+
+.deletebtn a{margin-left:35%;}
+.deletebtn a:hover{border:inset;}
+
+.addnewsysuser{background-color:#CCFF66;}
+.systab1{background-color:#CCFF66; padding:2%;  height:170px;padding-bottom:5%}
+.systab2{background-color:#CCFF66; padding:3%;  height:170px;padding-bottom:5%}
+.systemusertable table thead tr th{background-color:#666633; color:#FFFFFF;}
+.modal{height:auto;}
+.emp{background-color:#CCFF66;}
+.emptab1{background-color:#CCFF66; padding:2%;  height:170px;padding-bottom:5%}
+.emptab2{background-color:#CCFF66; padding:2%;  height:170px;padding-bottom:5%}
+.emptable table thead tr th{background-color:#666633; color:#FFFFFF;}
+.searchtext{}
+
+.leavesearch{ background-color:#666666; border-radius:5px; padding:5px; height:auto; color:#FFFFFF; float:left;}
+.leavetable{}
+
+
+.leavetable table thead tr th{background-color:#cf762d; color:#FFFFFF; margin-left:0%; margin-right:0%;}
+.totaldays{color:#FFFFFF; background-color:#669900;opacity:0.5;}
+.totaldays:hover{background-color:#999999; color:#000000;}
+
+.leaveheader{background-color:#333333;padding:1%; color:#FFFFFF;  border-bottom:inset;}
+
+.addleave{ background-color:#333333; margin-top:5px; color:#FFFFFF; padding:5%; border-radius:4px;}
+.addleave a:hover{color:#0099CC;}
+.ftr{clear:both; background-color:#4e4d48; margin-top:5px; color:#999999;}
+.birth{}
+.birthdatetable table thead tr th{background-color:#cf762d; color:#FFFFFF; margin-left:0%; margin-right:0%;}
+.generatebirth{background-color:#333333; color:#FFFFFF; padding:2%; border-radius:4px; float:left;}
+.generatebirth a img{float:left; margin:12px; border:inset; border:#666666 inset;}
+.generatebirth a img:hover{background-color:#666666; border:#333333 inset;}
